@@ -1,2 +1,3 @@
-# atomiv-frontend-ts-react
-Atomiv - Frontend (TypeScript - React)
+# Atomiv React
+
+This is the repository for the Atomiv React template.
